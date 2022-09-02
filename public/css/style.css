@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  font-family: sans-serif;
+  background-color: white;
+  scroll-behavior: smooth;
+  overflow-x: hidden; 
+  color: black;
+  transition-duration: 500ms;
+}

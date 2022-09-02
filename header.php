@@ -7,8 +7,11 @@
   <title>Lpride</title>
   <link rel="stylesheet" href="public/css/style.css">
   <link rel="stylesheet" href="public/css/header.css">
+  <link rel="stylesheet" href="/wss/fonts?families=SF+Pro,v3|SF+Pro+Icons,v3" type="text/css" media="all">
 </head>
 <body>
   <header>
-
+    <div class="logo">
+      <img src="./public/imgs/logos/512.png" style="height: 40px;">
+    </div>
   </header>

@@ -65,7 +65,7 @@
   </div>
 </div>
 <footer>
-  <h1>Footer</h1>
+  <span class="copyright">Lpride.kz © 2022</span>
 </footer>
 </body>
 </html>

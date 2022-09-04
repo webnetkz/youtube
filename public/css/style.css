@@ -135,6 +135,7 @@ footer {
   transition-duration: 500ms;
 }
 button {
+  border: none;
   cursor: pointer;
     display: inline-block;
     text-align: center;

@@ -109,6 +109,13 @@ footer {
   flex-direction: column;
   padding: 10px;
 }
+.text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  padding: 0px 20px;
+}
 .center .imgProduct img {
   min-width: 100%!important;
   min-height: 50vh!important;

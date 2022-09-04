@@ -5,7 +5,7 @@
   <h1>AQ Tolqyn</h1>
 </div>
 <div class="f2">
-  <div class="contentB">
+  <div class="contentB" onclick="location.href='eliftowers.php'">
     <div class="hb">Elif Towers</div>
     <div class="minlogo">
       <img src="./public/imgs/logos/ElifTowers.png" style="height: 50px;">
@@ -14,7 +14,7 @@
       <img src="./public/imgs/products/eliftowers.png" style="height: 30vh;">
     </div>
   </div>
-  <div class="contentW">
+  <div class="contentW" onclick="location.href='dealresidence.php'">
     <div class="hw">Deal Residence</div>
     <div class="minlogo">
       <img src="./public/imgs/logos/DealResidence.png" style="height: 50px;">

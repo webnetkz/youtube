@@ -11,7 +11,7 @@
 </head>
 <body>
   <header>
-    <div class="logo">
+    <div class="logo" onclick="location.href='index.php'">
       <img src="./public/imgs/logos/512.png" style="height: 40px;">
     </div>
   </header>

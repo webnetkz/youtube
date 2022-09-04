@@ -35,12 +35,19 @@
         <h1>Застройщик данного ЖК - "Dial Stroy"</h1>
         <br>
         <button onclick="location.href = 'https:\/\/www.youtube.com/watch?v=bpt3DqbvqnE'">Посмотреть видео</button>
-        <br><br>
+        <br>
         <button onclick="location.href = 'https:\/\/drive.google.com/file/d/1foIzPN1p-k0My4Uyo0jYb3D15wP3Rcm1/view'">Презинтация</button>
         <br>
         <p>"Диал-Строй" - одна из лидирующих и динамично развивающихся строительных организаций Казахстана, которая работает на строительном рынке с 2004 года.</p>
         <br>
         <p>За 12 лет деятельности "Диал-Строй" возвел 150 000 квадратных метров жилых комплексов, административных зданий и социальных заведений. В период с 2004 по 2012 гг. в лице "Субподрядчика" нами построено более 80 000 квадратных метров, в период с 2012 года по настоящее время в лице "Генподрядчика" построено 25 000 квадратных метров в городе Алматы.</p>
+    </div>
+    <div class="imgs">
+        <img src="./public/imgs/dealresidence/1.jpg">
+        <img src="./public/imgs/dealresidence/2.jpg">
+        <img src="./public/imgs/dealresidence/3.jpg">
+        <img src="./public/imgs/dealresidence/4.jpg">
+        <img src="./public/imgs/dealresidence/5.jpg">
     </div>
 </div>
 

@@ -31,6 +31,7 @@
         <br>
         <p>Расположен в старом центре города Алматы.</p>
         <p>На пересечение улиц Сатпаева и Розыбакиева.</p>
+        <br>
         <button onclick="location.href = 'https:\/\/drive.google.com/file/d/1YCRUx7XzDXy3vtg1ob_3ycQrlyDHu8Gl/view'">Презентация</button>
         <br>
         <button onclick="location.href = 'https:\/\/www.youtube.com/watch?v=MNMSTI0LJAw'">Посмотреть видео</button>

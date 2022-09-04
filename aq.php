@@ -2,7 +2,7 @@
   require_once "header.php";
 ?>
 <div class="startContent" onclick="location.href='aq.php'">
-  <h1>Aq Tolkyn Plaza</h1>
+  <h1>Aq Tolkyn Garden</h1>
 </div>
 <div class="center">
     <div class="minlogo">
@@ -13,7 +13,7 @@
     </div>
     <div class="text">
         <h1>О ЖИЛОМ КОМПЛЕКСЕ</h1>
-        <p>"ЖК AQTOLKYN PLAZA " - ультрасовременный ЖК бизнес-класса.</p>
+        <p>"ЖК AQTOLKYN Garden " - ультрасовременный ЖК бизнес-класса.</p>
         <br>
         <p>Расположен в старом центре города Алматы.</p>
         <p>На пересечение улиц Аль фараби и Ходжанова.</p>

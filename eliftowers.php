@@ -5,7 +5,7 @@
 .startContent {
   height: calc(100vh - 50px);
   margin-bottom: 15px;
-  background: url("./public/imgs/products/ElifTowers.png");
+  background: url("./public/imgs/products/eliftowers.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;

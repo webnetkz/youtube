@@ -5,7 +5,7 @@
 .startContent {
   height: calc(100vh - 50px);
   margin-bottom: 15px;
-  background: url("./public/imgs/products/elifgarden.jpg");
+  background: url("./public/imgs/products/elifgarden.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -16,7 +16,7 @@
 }
 </style>
 <div class="startContent">
-  <h1>Elef Garden</h1>
+  <h1>Elif Garden</h1>
 </div>
 <div class="center">
     <div class="minlogo">

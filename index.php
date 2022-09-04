@@ -46,7 +46,7 @@
 </div>
 <div class="f2">
   <div class="contentB">
-    <div class="hw">Nur-Ay Residence</div>
+    <div class="hb">Nur-Ay Residence</div>
     <div class="minlogo">
       <img src="./public/imgs/logos/Nur-AyResidence.png" style="height: 50px;">
     </div>

@@ -9,7 +9,7 @@
       <img src="./public/imgs/logos/aq.png" style="height: 50px;">
     </div>
     <div class="imgProduct">
-      <img src="./public/imgs/products/aq.png" style="height: 30vh;">
+      <img src="./public/imgs/products/aq.jpg" style="height: 30vh;">
     </div>
     <div class="text">
         <h1>О ЖИЛОМ КОМПЛЕКСЕ</h1>

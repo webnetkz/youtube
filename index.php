@@ -26,7 +26,7 @@
   </div>
 </div>
 <div class="f2">
-  <div class="contentB">
+  <div class="contentB" onclick="location.href='assemplaza.php'">
     <div class="hb">Assem Plaza</div>
     <div class="minlogo">
       <img src="./public/imgs/logos/AsemPlaza.png" style="height: 50px;">
@@ -35,7 +35,7 @@
       <img src="./public/imgs/products/assemplaza.jpg" style="height: 30vh;">
     </div>
   </div>
-  <div class="contentW">
+  <div class="contentW" onclick="location.href='doublestar.php'">
     <div class="hw">Double Star</div>
     <div class="minlogo">
       <img src="./public/imgs/logos/DoubleStar.png" style="height: 50px;">
@@ -46,7 +46,7 @@
   </div>
 </div>
 <div class="f2">
-  <div class="contentB">
+  <div class="contentB" onclick="location.href='nurresidence.php'">
     <div class="hb">Nur-Ay Residence</div>
     <div class="minlogo">
       <img src="./public/imgs/logos/Nur-AyResidence.png" style="height: 50px;">
@@ -55,7 +55,7 @@
       <img src="./public/imgs/products/nuray.jpeg" style="height: 30vh;">
     </div>
   </div>
-  <div class="contentW">
+  <div class="contentW" onclick="location.href='elifgarden.php'">
     <div class="hw">Elif Garden</div>
     <div class="minlogo">
       <img src="./public/imgs/logos/ElifGarden.png" style="height: 50px;">

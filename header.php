@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="public/css/style.css">
   <link rel="stylesheet" href="public/css/header.css">
   <link rel="stylesheet" href="/wss/fonts?families=SF+Pro,v3|SF+Pro+Icons,v3" type="text/css" media="all">
+  <link rel="shortcut icon" href="./public/imgs/logos/64.png" type="image/png">
   <style>
     .logo:hover {
       cursor: pointer;

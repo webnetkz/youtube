@@ -3,6 +3,7 @@
 ?>
 <div class="startContent">
   <h1>AQ Tolqyn</h1>
+  <button onclick="location.href = 'aq.php'" style="margin-bottom: 50px!important;">Подробнее</button>
 </div>
 <div class="f2">
   <div class="contentB" onclick="location.href='eliftowers.php'">

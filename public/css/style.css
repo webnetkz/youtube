@@ -131,6 +131,9 @@ footer {
 .imgs > img {
   max-width: 100vw!important;
 }
+.logo {
+  transition-duration: 500ms;
+}
 button {
   cursor: pointer;
     display: inline-block;

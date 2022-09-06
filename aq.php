@@ -4,6 +4,14 @@
 <div class="startContent" onclick="location.href='aq.php'">
   <h1>Aq Tolkyn Garden</h1>
 </div>
+<div class="feedback">
+  <form action="./app/feedback.php?path=aq" method="POST" class="feedBack">
+    <h3>Оставить заявку</h3>
+      <input type="text" class="inp" id="name" name="name" placeholder="Имя">
+      <input type="text" id="phone" name="phone" class="inp" placeholder="Номер телефона">
+    <button class="btn">Отправить</button>
+  </form>
+</div>
 <div class="center">
     <div class="minlogo">
       <img src="./public/imgs/logos/aq.png" style="height: 50px;">

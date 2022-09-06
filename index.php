@@ -65,6 +65,15 @@
     </div>
   </div>
 </div>
+<div class="feedback">
+  <form action="./app/feedback.php?path=index" method="POST" class="feedBack">
+    <h3>Оставить заявку</h3>
+      <input type="text" class="inp" id="name" name="name" placeholder="Имя">
+      <input type="text" id="phone" name="phone" class="inp" placeholder="Номер телефона">
+    <button class="btn">Отправить</button>
+  </form>
+</div>
+
 <footer>
   <span class="copyright">Lpride.kz © 2022</span>
 </footer>
